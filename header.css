@@ -1,0 +1,33 @@
+header {
+    background: #6a6a6b;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+
+    displpay: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.header-image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 1rem;
+}
+
+.header-image {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.2rem;
+}
+nav li {
+    list-style-type: none
+}
